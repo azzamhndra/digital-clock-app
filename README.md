@@ -14,8 +14,6 @@ A simple practice project built with **React + Vite**, displaying a real-time di
 
 ![Digital Clock Screenshot](https://github.com/azzamhndra/digital-clock-app/blob/main/preview.jpeg?raw=true)
 
-_(Replace the image above with your own screenshot if needed.)_
-
 ---
 
 ## ✨ Features
