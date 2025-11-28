@@ -6,8 +6,9 @@ A simple practice project built with **React + Vite**, displaying a real-time di
 
 ## 🚀 Demo
 
-👉 **Live Preview:**  
-https://digital-clock-app-rose.vercel.app/
+👉 **Live Preview:**
+
+ <h3><a href="https://digital-clock-app-rose.vercel.app/" target="_blank">Demo</a></h3>
 
 ---
 
